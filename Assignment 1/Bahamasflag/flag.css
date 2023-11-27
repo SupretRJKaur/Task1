@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+h2{
+    margin-left: 90px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.container{
+    align-items: center;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+.upper{
+    height: 66.6px;
+    background-color: #00A9CE;
+}
+.triangle{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-left: 140px solid #000000;
+}
+.middle{
+    height: 66.6px;
+    background-color: #FDDA25;
+}
+.lower{
+    height: 66.6px;
+    background-color: #00A9CE;
+}
